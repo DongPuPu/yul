@@ -13,6 +13,7 @@
 				height:100%;
 				background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1540573631492&di=f748043cdb4432fee8f67df913e627c7&imgtype=0&src=http%3A%2F%2Fpic.ffpic.com%2Ffiles%2F2017%2F0805%2F0804ecydmhzdsjbz2.jpg);
 				background-position: center center;
+				 background-attachment:fixed;
 			}
 			.head{
 				position:relative;
